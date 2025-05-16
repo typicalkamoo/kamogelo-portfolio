@@ -32,4 +32,21 @@ footer{
     background: #5e626730;
 }
 
+.social-links{
+    margin-top: 10px;
+}
 
+.social-links a{
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+    background: #14487a;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.social-links> a:hover{
+     text-decoration:underline;
+     font-size: 20px; 
+     color: #000  
+}
