@@ -1,0 +1,35 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background: #847a7a3f;
+    color: #2e2a2a;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background: #14487a;
+    color: #fff;
+    padding: 25px ;
+    text-align: center;
+}
+
+section{
+    padding:20px;
+    margin: 10px auto;
+    max-width: 600px;
+    background: #fff;
+    border-radius: 15px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.468);
+}
+
+h2{
+    color: #14487a;
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+    background: #5e626730;
+}
+
+
